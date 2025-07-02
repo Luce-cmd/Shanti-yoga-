@@ -229,7 +229,7 @@ p {
 
 /* Overlay plus marqué pour la lisibilité */
 .hero-overlay {
-    background-image: url('./image/hero4.jpeg');
+    background-image: url('./images/hero4.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
